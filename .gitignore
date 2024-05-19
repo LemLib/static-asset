@@ -15,3 +15,9 @@ temp.log
 temp.errors
 *.ini
 .d/
+
+# Template
+*.zip
+
+# MacOS
+.DS_Store
