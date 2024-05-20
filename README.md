@@ -13,3 +13,7 @@ ASSET(example_txt)
 ```
 
 The macro creates an object of type `asset`. Note that this has to be done in the global scope
+
+## Attribution
+
+This project was originally made by [Jerrylum](https://github.com/Jerrylum), see the original repo [here](https://github.com/Jerrylum/gif-pros-with-asset-gen2)
